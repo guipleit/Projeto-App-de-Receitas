@@ -1,0 +1,14 @@
+.header-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.header-container > .header-div {
+  align-items: center;
+  display: flex;
+  margin-top: 16px;
+}
+
+.header-input {
+  margin: 4px;
+}
